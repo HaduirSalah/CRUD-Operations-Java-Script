@@ -1,0 +1,16 @@
+textarea {
+    resize: none;
+}
+
+
+td,
+th {
+    text-align: center;
+}
+
+.img-item
+{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
